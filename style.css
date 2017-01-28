@@ -1,0 +1,37 @@
+body{
+	background-color: #999;
+}
+
+h1 {
+	font-family:sans-serif cursive;
+	padding: 20px;
+	text-align: center;
+	border: 2px solid blue;
+	background-color: white;
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+img {
+	background-color: blue;
+	padding:10px;
+	margin-left:380px;
+}
+
+p{
+	color: red;
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+ul{
+	border: 2px solid black;
+	width: 250px;
+	margin-left: 525px;
+}
